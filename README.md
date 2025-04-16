@@ -110,5 +110,5 @@ Hi there! I'm **Donia MohyEldin**. I’m a data analyst on a mission to share kn
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/donia-kewidar/)
+[![LinkedIn] (https://www.linkedin.com/in/donia-kewidar/)
 
